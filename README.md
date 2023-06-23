@@ -77,5 +77,4 @@ The ExpenseTracker application is built using the following technologies:
 
 - Node.js: A JavaScript runtime used to build the backend of the application.
 
-## Live Link
-The live project: [ExpenseTracker](https://expense-tracker-ten-zeta.vercel.app/login)
+
