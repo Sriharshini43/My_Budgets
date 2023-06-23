@@ -6,9 +6,7 @@ The ExpenseTracker repository is a web application developed using the MERN stac
 
 To install and run the ExpenseTracker application locally, follow these steps:
 
-- Clone the repository to your local machine using the following command:
-
-       git clone https://github.com/OviSarkar62/ExpenseTracker.git
+- Clone the repository to your local machine.
        
 - Navigate to the ExpenseTracker directory:
 
