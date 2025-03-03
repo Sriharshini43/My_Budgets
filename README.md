@@ -77,4 +77,6 @@ The ExpenseTracker application is built using the following technologies:
 
 - Node.js: A JavaScript runtime used to build the backend of the application.
 
+Note : Change .env file with your mongodb credentials.
+
 
